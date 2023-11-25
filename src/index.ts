@@ -13,3 +13,5 @@ function fillUniqueArray() {
 fillUniqueArray();
 
 //has this been stagged? if not. 
+
+//okay this is working. 
