@@ -1,4 +1,6 @@
 import {question} from 'readline-sync';
+import { basicArraySample, copyArraySample } from './array-samples';
+import { mapSampleOne, mapSampleTwo } from './map-samples';
 
 //example to test
 function fillUniqueArray() {
@@ -21,3 +23,10 @@ fillUniqueArray();
 //this was my original branch
 
 /// and here
+
+
+
+// basicArraySample();
+// copyArraySample();
+mapSampleOne();
+// mapSampleTwo();
