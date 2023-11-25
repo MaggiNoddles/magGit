@@ -17,3 +17,5 @@ fillUniqueArray();
 //okay this is working. 
 
 //test branch time take 2.
+
+//changing to testing branch to see how divergents work
