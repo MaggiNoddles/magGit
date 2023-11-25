@@ -19,3 +19,5 @@ fillUniqueArray();
 //test branch time take 2.
 
 //changing to testing branch to see how divergents work
+
+//okay do more work on current test. 
