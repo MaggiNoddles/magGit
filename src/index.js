@@ -56,7 +56,7 @@ function studentAttendanceSample() {
     // Does not matter which array is used in the condition
     // Since they should all have the same length
     for (let i = 0; i < studentFirstNames.length; i++) {
-        const firstName = readlineSync.question('Please enter the first name of a student: ')git;
+        const firstName = readlineSync.question('Please enter the first name of a student: ')
         const lastName = readlineSync.question('Please enter the last name of a student: ');
         const text = readlineSync.question('Did the student attend class today? ');
         const didAttend = strToBoolean(text);
